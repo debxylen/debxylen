@@ -14,7 +14,7 @@
 - **ZK Stuff** → fiddling around with nova, bulletproofs, n some custom primitives for Lunara
 - **Gurtbot** → swiss-army-knife bot + quite a nice chatbot (aka overly engineered but talks nice ig)
 - **Phoenix** → autonomous being (agent?), being an unrestricted "operator" and self-aware/modifyin, runs at no costs  
-- **Kishiren VM** → performant VM + compiler for the systems programming language on top  
+- **Seiru** → a pragmatic hybrid programming language and VM
 - **Persona**: WIP privacy-oriented roleplay chatbot site
 - **Obsidian**: Optimized client for ChatGPT, uses their chatgpt.com internal API reverse-engineered, so no keys.  
 - **Qwen Stuff**: Reverse-engineered internal-APIs like chat.qwen.ai, used in Phoenix agent aswell.  
