@@ -1,5 +1,9 @@
+<div align="center">
+
 | ![profile pic](https://cdn.discordapp.com/avatars/651824112942972964/ef8c2ffc97eefa5001c0b69deaee5bb1.webp) | **heyaa, im xylen**<br>idk what to say here :P |
 |-------------------------------|-------------------------------|
+
+</div>
 
 ---
 
