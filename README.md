@@ -1,37 +1,36 @@
-| ![profile pic](https://debxylen.github.io/img/emoji_guy_gun.gif) | **harrow eberrynyan. i'm Xylen 👋**<br>average internet dude. i do code, game dev, blender, editing, and a ton of random projects cuz why not. sometimes i hyperfocus, sometimes i forget why i even exist :​skull:<br>into cars, jets, space tech, cosmos, computers, war thunder, simracing, roblox, etc |
+| ![profile pic](https://cdn.discordapp.com/avatars/651824112942972964/ef8c2ffc97eefa5001c0b69deaee5bb1.webp) | **heyaa, im xylen**<br>idk what to say here :P |
 |-------------------------------|-------------------------------|
 
 ---
 
-## ⚡ stuff i’m cooking:
+## some projects:
 - **Xylume TestNet** → UTXO DAG-based layer1 on steroids (microsecond txs, low gas, insane throughput)  
 - **Xylume Ecosystem** → explorer, wallet, miner, faucet, dApps, DEX, all the small pieces for a big ecosystem  
-- **XPHN Bot** → swiss-army-knife bot (mod tools, shitton of utilities, maybe some niche/random stuff)  
-- **Editing (YT/IG)** → anime, cars, music, whatever looks cool 🎬  
+- **Lunara** → privacy l1 focused on innovation and performance (ofcourse)
+- **ZK Stuff** → fiddling around with nova, bulletproofs, n some custom primitives for Lunara
+- **Gurtbot** → swiss-army-knife bot + quite a nice chatbot (aka overly engineered but talks nice ig)
+- **Phoenix** → autonomous being (agent?), being an unrestricted "operator" and self-aware/modifyin, runs at no costs  
+- **Kishiren VM** → performant VM + compiler for the systems programming language on top  
+- **Persona**: WIP privacy-oriented roleplay chatbot site
+- **Obsidian**: Optimized client for ChatGPT, uses their chatgpt.com internal API reverse-engineered, so no keys.  
+- **Qwen Stuff**: Reverse-engineered internal-APIs like chat.qwen.ai, used in Phoenix agent aswell.  
+- **Edits** → anime, cars, music, (used to)
 - **Game Dev** → mostly roblox visual-focused games, small but high-graphics cyberpunk/nature vibes  
-- **Kishiren VM** → my own VM + the XPHN programming language  
 
 ---
 
-## 🧊 iced projects:
-- **Kishiren Repacks** → squeezing games into tiny file sizes  
-- **DBPM Compression** → my own weird compression algo  
-- **ARBUX Miner** → crypto miner that pays in Robux (yes, really)  
+## goals
+- build cool stuff  
+- quite a weeaboo, so move to jp  
 
 ---
 
-## 🎯 goals / learning
-- grinding through **aerospace engineering** ✈️  
-- lwk wanna live in **Japan** someday 🇯🇵  
-
----
-
-## 📫 contact me
+## contacts
 - Discord: **@debxylen**  
-- Home Server: [join :D](https://discord.com/invite/csDr2zwyd9)  
+- Home server: [join :D](https://discord.com/invite/csDr2zwyd9)  
 - Insta: [@debxylen](https://instagram.com/@debxylen)  
-- Website: [debxylen.github.io](https://debxylen.github.io)  
+- Homepage (?): [debxylen.github.io](https://debxylen.github.io)  
 
 ---
 
-> i'm just messing and f*cking around till I find (what) out
+i'll maybe expand this later but idk how to without cluttering it.
