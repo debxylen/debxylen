@@ -12,6 +12,7 @@
 - **Xylume Ecosystem** → explorer, wallet, miner, faucet, dApps, DEX, all the small pieces for a big ecosystem  
 - **Lunara** → privacy l1 focused on innovation and performance (ofcourse)
 - **ZK Stuff** → fiddling around with nova, bulletproofs, n some custom primitives for Lunara
+- **Rui** → a reactive-declarative ui framework for roblox Luau bcz most other ui libs are poorly designed, and the native editor is messy
 - **Gurtbot** → swiss-army-knife bot + quite a nice chatbot (aka overly engineered but talks nice ig)
 - **Phoenix** → autonomous being (agent?), being an unrestricted "operator" and self-aware/modifyin, runs 4 free heh
 - **Seiru** → a pragmatic hybrid programming language and VM
