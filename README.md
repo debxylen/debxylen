@@ -1,5 +1,5 @@
 **heyaa, im xylen!**  
-a geek obsessed w/ most things abt tech  
+a chronically online geek obsessed w/ most things abt tech  
 
 <sub><sup>(i swear i had more interests to yap abt but i forgor. i'll write stuff here when i have ideas again! for now, its too few to write them without making them look wayy too specific...)</sup></sub>
 
