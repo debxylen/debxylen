@@ -1,60 +1,42 @@
-<div align="center">
+**heyaa, im xylen!**  
+a geek obsessed w/ most things abt tech  
 
-| ![profile pic](https://cdn.discordapp.com/avatars/651824112942972964/ef8c2ffc97eefa5001c0b69deaee5bb1.webp) | **heyaa, im xylen**<br>idk what to say here :P |
-|-------------------------------|-------------------------------|
-
-</div>
+<sub><sup>(i swear i had more interests to yap abt but i forgor. i'll write stuff here when i have ideas again! for now, its too few to write them without making them look wayy too specific...)</sup></sub>
 
 ---
 
-## some projects:
-- **Xylume TestNet** → UTXO DAG-based layer1 on steroids (microsecond txs, low gas, insane throughput)  
-- **Xylume Ecosystem** → explorer, wallet, miner, faucet, dApps, DEX, all the small pieces for a big ecosystem  
-- **Lunara** → privacy l1 focused on innovation and performance (ofcourse)
-- **ZK Stuff** → fiddling around with nova, bulletproofs, n some custom primitives for Lunara
-- **Rui** → a reactive-declarative ui framework for roblox Luau bcz most other ui libs are poorly designed, and the native editor is messy
-- **Gurtbot** → swiss-army-knife bot + quite a nice chatbot (aka overly engineered but talks nice ig)
-- **Phoenix** → autonomous being (agent?), being an unrestricted "operator" and self-aware/modifyin, runs 4 free heh
-- **Seiru** → a pragmatic hybrid programming language and VM
-- **Persona** → WIP privacy-oriented roleplay chatbot site
-- **Obsidian** → Optimized client for ChatGPT, uses their chatgpt.com internal API reverse-engineered, so no keys.  
-- **Qwen Stuff** → Reverse-engineered internal-APIs like chat.qwen.ai, used in Phoenix agent aswell.  
-- **Edits** → anime, cars, music, (kinda past but might get back tbh, am just lazy n laggy)
-- **Game Dev** → (kinda past) mostly roblox visual-focused games, small but high-graphics cyberpunk/nature vibes  
+### active stuff:
+- [Rui](https://github.com/debxylen/Rui) → an reactive-declarative ui framework for Roblox for a webdev-like DX
+- [Seiru](https://github.com/debxylen/seiru) → a pragmatic hybrid programming language
+- **Kore** → a game engine inspired by rblx studio's simplicity but w/o the platform lock-in and quality limitations
+- **Blu** → manwha reader i made with UX in foremost prio because i missed bilibili comics' free-yet-clean experience
 
-## other random thingies i made once upon a time
+### less active:
+- [Distrack](https://github.com/debxylen/distrack) → conversation indexing and analysis pipeline for Discord
+- **Gurtbot** → swiss-army-knife bot + attempt at a highly stateful chatbot
+- **Persona** → (wip) privacy-oriented roleplay chatbot site
+- **Game Dev** → (kinda past) mostly roblox visual-focused games
+- **Xylume TestNet** → UTXO+DAG-based layer1, for cheap and quick transactions and less clunkiness
+- **ZK & Lunara** → experimenting with bleeding-edge zero-knowledge cryptography & privacy l1
 
-<details>
-<summary>junk drawer</summary>
+### random bs go:
+- [404 world not found](https://404-world-not-found.vercel.app/) → raytraced 3d-ish empty-ish weird-ish world, originally in py
+- [snail race](https://solsnail-fun.vercel.app/) → sol snail race lol (funni)
 
-| site | description |
-|------|-------------|
-| [404 world not found](https://404-world-not-found.vercel.app/) | raytraced 3d-ish empty-ish weird-ish world |
-| [snail race](https://solsnail-fun.vercel.app/) | sol snail race lol (funni) |
-| [perpetua dex](https://perpetua-dex.vercel.app/trade) | a sloppy perps + jank memecoin dex |
-| [solus dex](https://solus-dex.vercel.app/) | a cheap launchpad-dex-like thing |
-| [neuro chat](https://www.neurochat.live/) | lame gpt wrapper with neuro persona |
-| [sentience](https://www.project-sentience.xyz/) | mostly aesthetic UI demo, kinda performative |
-| [solbackrooms](https://www.solbackrooms.xyz/) | ai larp larp larp |
-
-thought i had more idk
-
-</details>
+etc
 
 ---
 
 ## goals
-- build cool stuff  
-- quite a weeaboo, so move to jp  
+- build cool stuff
+- finish my decayinggg anime watchlist <sub><sup>(though i have no time to do so and havent touched one in years)</sup></sub>
+- move to jp!
+- have no pending goals
 
 ---
 
 ## contacts
-- Discord: **@debxylen**  
-- Home server: [join :D](https://discord.com/invite/csDr2zwyd9)  
-- Insta: [@debxylen](https://instagram.com/@debxylen)  
-- Homepage (?): [debxylen.github.io](https://debxylen.github.io)  
-
----
-
-i'll maybe expand this later but idk how to without cluttering it.
+- discord: **@debxylen**
+- server: [join :D](https://discord.com/invite/csDr2zwyd9)
+- insta: [@debxylen](https://instagram.com/@debxylen)
+- homepage: (currently being redesigned, please wait!)
